@@ -18,3 +18,19 @@ To run The Movie Picker locally, follow these steps:
 
 1. Clone this repository or download the source code as a ZIP file and extract it.
 
+2. Obtain a TMDb API key by following the instructions in the [TMDb API documentation](https://www.themoviedb.org/documentation/api).
+
+3. Open the `script.js` file and replace `'your_api_key_here'` with your TMDb API key.
+
+4. Open `index.html` in your preferred web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- TMDb API
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
