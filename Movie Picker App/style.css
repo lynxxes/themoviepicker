@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Change the background color to black */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+header {
+    width: 100%;
+    background-color: #a51313; /* Change the background color to a movie curtain red */
+    padding: 1rem 0;
+    text-align: center;
+    margin-bottom: 1rem; /* Add margin to separate the header from the movie container */
+}
+
+header h1 {
+    color: #fff; /* Change the header text color to white */
+    font-size: 2rem;
+    margin: 0;
+}
+
+#movie-container {
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #a51313;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+.movie h3 {
+    margin-bottom: 0.5rem;
+}
+
+.movie p {
+    font-size: 0.9em;
+}
+footer {
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+footer p {
+    color: #fff;
+    font-size: 0.8em;
+    margin: 0;
+}
+
