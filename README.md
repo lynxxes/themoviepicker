@@ -34,3 +34,5 @@ To run The Movie Picker locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05dfa5d3-651b-46ec-a156-9c1d61fc1443/deploy-status)](https://app.netlify.com/sites/themoviepicker/deploys)
