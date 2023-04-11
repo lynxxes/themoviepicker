@@ -2,7 +2,7 @@
 
 The Movie Picker is a simple web app that allows users to generate random movie recommendations with a single click. The app provides movie details, including the title, release date, average rating, US content rating, and an image of the movie poster. It also indicates whether a movie is kid-appropriate based on its US content rating.
 
-![Screenshot of The Movie Picker](screenshot.png)
+![Screenshot of The Movie Picker](Web%20capture_11-4-2023_14033_.jpeg)
 
 ## Features
 
